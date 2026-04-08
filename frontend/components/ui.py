@@ -23,7 +23,7 @@ import streamlit as st
 # Config
 # ---------------------------------------------------------------------------
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8000")
+BACKEND_URL = os.getenv("BACKEND_URL", "http://localhost:8001")
 DEFAULT_ROLE = os.getenv("DEFAULT_ROLE", "analyst")
 DEFAULT_USER = os.getenv("DEFAULT_USER", "analyst@deloitte.com")
 
