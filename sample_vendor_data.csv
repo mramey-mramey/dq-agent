@@ -1,0 +1,16 @@
+vendor_id,vendor_name,address,city,state,zip,tax_id,payment_terms,ytd_spend
+V-1001,Acme Corp.,123 Main St,Springfield,IL,62701,47-1234567,NET30,142500.00
+V-1002,ACME Corporation,123 Main Street,Springfield,IL,62701,47-1234567,NET30,12000.00
+V-1003,Globex Supplies,456 Industrial Blvd,Shelbyville,IL,62565,82-9876543,NET45,88750.50
+V-1004,globex supplies inc.,456 Industrial Blvd,,IL,62565,,NET45,3200.00
+V-1005,Initech Solutions,789 Office Park Dr,Capitol City,IL,62702,55-1122334,NET60,250000.00
+V-1006,INITECH SOLUTIONS LLC,789 Office Park Drive,Capitol City,IL,62702,55-1122334,NET60,18000.00
+V-1007,Umbrella Consulting,,,,, ,NET30,5000.00
+V-1008,Wayne Enterprises,1 Wayne Tower,Gotham,NJ,07001,99-4455667,NET90,1250000.00
+V-1009,Wayne Enterprises Ltd.,1 Wayne Tower,Gotham,NJ,07001,99-4455667,NET90,75000.00
+V-1010,Stark Industries,200 Park Ave,New York,NY,10001,12-3344556,NET30,450000.00
+V-1011,Reynolds & Reynolds,500 Reynolds Crossing,Dayton,OH,45430,33-7788990,NET45,62000.00
+V-1012,Reynolds and Reynolds,500 Reynolds Crossing,Dayton,OH,45430,33-7788990,NET45,4100.00
+V-1013,Vandelay Industries,99 Art Vandelay Dr,New York,NY,10002,71-0099887,NET30,
+V-1014,Pendant Publishing,,New York,NY,,44-5566778,,29500.00
+V-1015,Dunder Mifflin Paper Co.,1725 Slough Ave,Scranton,PA,18503,88-3322110,NET30,180000.00
