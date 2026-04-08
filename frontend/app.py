@@ -16,6 +16,8 @@ Navigation is handled by Streamlit's built-in multi-page system:
 """
 
 import streamlit as st
+import os
+st.write(os.getenv("BACKEND_URL", "NOT SET"))
 
 from components.ui import (
     DL_DARK_GRAY,
