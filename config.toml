@@ -1,0 +1,16 @@
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+# Deloitte brand light theme baseline
+# (detailed overrides are applied via inject_brand_css() in ui.py)
+primaryColor = "#86BC25"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#282728"
+font = "sans serif"

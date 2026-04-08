@@ -111,9 +111,9 @@ with st.sidebar:
 st.markdown(
     f"""
     <div style="padding:32px 0 16px 0;">
-        <div style="font-size:2.5rem;font-style:italic;font-weight:700;color:{DL_GREEN};line-height:1.2;">
-            Veritas  <br>
-                <span style="font-size:2rem;font-weight:300;color:{DL_DARK_GRAY};">AI-powered Data Quality Management</span>
+        <div style="font-size:2rem;font-weight:300;color:{DL_DARK_GRAY};line-height:1.2;">
+            AI-powered <span style="font-style:italic;font-weight:700;color:{DL_GREEN};">data quality</span>
+            <br>for FP&A pipelines
         </div>
         <div style="margin-top:8px;font-size:0.95rem;color:#555555;max-width:520px;">
             Ingest your vendor master, invoice feeds, or budget uploads.
@@ -124,7 +124,6 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-
 
 # Workflow steps
 cols = st.columns(5, gap="small")
